@@ -1,0 +1,19 @@
+{
+  "name": "taith-json-to-excel",
+  "version": "1.0.0",
+  "description": "convert json to excel",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "json",
+    "excel"
+  ],
+  "author": "TaiTH",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "excel4node": "^1.8.0"
+  }
+}
